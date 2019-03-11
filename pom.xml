@@ -58,7 +58,7 @@
 				<classpathPrefix>lib/</classpathPrefix>
 				<mainClass>com.teamdave.app</mainClass>
 			</manifest>
-		</archives>
+		</archive>
 
 			  
 			  </configuration>
