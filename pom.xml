@@ -56,7 +56,7 @@
 			  <manifest>
 	 			<addClasspath>true</addClasspath>
 				<classpathPrefix>lib/</classpathPrefix>
-				<mainClass>com.teamdave.app</mainClass>
+				<mainClass>com.teamdave.app.App</mainClass>
 			</manifest>
 		</archive>
 
